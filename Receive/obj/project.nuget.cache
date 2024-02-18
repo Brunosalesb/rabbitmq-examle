@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hcwnlV6Qmn+cJDpKcsDsPXmyxOndLjBmsjSu1G7rpl9O6U6pZSaMrTuiU8gkQecBAvgH4M0GfsEbZDXDkeDU8Q==",
+  "dgSpecHash": "wcPKSgz4R/5SMt85VaMI3QiEfPoJ2qA/NVzxjP/4OqhVvK28+5t/yBQV3Y7fVSkgqaoi4kIOdGQkloET5K5FRA==",
   "success": true,
   "projectFilePath": "/Users/bruno/RiderProjects/rabbitmq-example/Receive/Receive.csproj",
   "expectedPackageFiles": [
