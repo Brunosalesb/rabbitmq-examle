@@ -1,0 +1,17 @@
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/Send
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/Send.deps.json
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/Send.runtimeconfig.json
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/Send.dll
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/Send.pdb
+/Users/bruno/RiderProjects/rabbitmq-example/Send/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.csproj.AssemblyReference.cache
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.AssemblyInfoInputs.cache
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.AssemblyInfo.cs
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.csproj.CoreCompileInputs.cache
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.csproj.Up2Date
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.dll
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/refint/Send.dll
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.pdb
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/Send.genruntimeconfig.cache
+/Users/bruno/RiderProjects/rabbitmq-example/Send/obj/Debug/net8.0/ref/Send.dll
